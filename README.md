@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @razer-np
+- 👋 Hi, I’m @rafael
 - 👀 I’m interested in evoluir meus conhecimentos sobre programação
 - 🌱 I’m currently learning = javascript
 - 📫 How to reach me [...](https://www.linkedin.com/in/rafael-aidar-15a866336/?trk=opento_sprofile_details)
